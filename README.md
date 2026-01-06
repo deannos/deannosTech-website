@@ -2,7 +2,7 @@
 
 A modern, responsive website built with React, Vite, and Tailwind CSS, featuring smooth animations and a professional design.
 
-## 🌟 Features
+##  Features
 
 - **Modern UI/UX Design**
 
@@ -27,7 +27,7 @@ A modern, responsive website built with React, Vite, and Tailwind CSS, featuring
   - Professional Footer with organized sections
   - Legal pages (Privacy Policy, Terms of Service, Cookie Policy)
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Frontend Framework**
 
@@ -46,7 +46,7 @@ A modern, responsive website built with React, Vite, and Tailwind CSS, featuring
   - PostCSS
   - Autoprefixer
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -120,7 +120,7 @@ deannos-tech/
 └── postcss.config.js
 ```
 
-## 🎨 Customization
+##  Customization
 
 ### Colors and Theme
 
@@ -130,7 +130,7 @@ The project uses Tailwind CSS for styling. You can customize the colors and them
 
 Animations are implemented using Framer Motion. You can modify or add new animations in the components.
 
-## 📱 Responsive Design
+##  Responsive Design
 
 The website is fully responsive and optimized for:
 
@@ -146,7 +146,7 @@ The website is fully responsive and optimized for:
 - Optimized images and assets
 - Clean URL structure
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
@@ -165,7 +165,7 @@ For any questions or concerns, please contact:
 - Email: support@deannostech.com
 - Website: www.deannostech.com
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - [React](https://reactjs.org/)
 - [Vite](https://vitejs.dev/)
